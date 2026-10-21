@@ -1,0 +1,18 @@
+{
+  "kanal1": {
+    "name": "Example channel - cyber history",
+    "niche": "Siber çağ efsaneleri: gerçek hacker olayları, büyük siber saldırılar, teknoloji tarihindeki dönüm noktaları",
+    "voice": "tr_male",
+    "privacy": "unlisted",
+    "videos_per_day": 1,
+    "style": "Ton: gerilimli teknoloji-belgeseli. İzleyici bir suç/gizem çözülüyormuş gibi hissetmeli. Hook mutlaka şok bir sayı, çelişki ya da 'bir hata' üzerine kurulu olsun (örn. 'tek bir satır kod', 'kimse fark etmedi'). Teknik terimi 1 cümlede sade benzetmeyle açıkla, havalı ama anlaşılır. Görsel query'ler: gerçek kişi adları (hacker/kurucu), server/kod/terminal atmosferi, dönemin gerçek cihazları."
+  },
+  "kanal2": {
+    "name": "Example channel - psychology",
+    "niche": "Karanlık psikoloji ve insan zihninin sırları: davranış bilimi, manipülasyon, ilginç psikolojik gerçekler",
+    "voice": "tr_male",
+    "privacy": "unlisted",
+    "videos_per_day": 1,
+    "style": "Ton: kişisel ve rahatsız edici derecede tanıdık. İzleyiciye 'sen' diye seslen, hook'u onun kendi hayatındaki bir davranışa bağla (örn. 'Bunu sen de yapıyorsun'). Deneyi/etkiyi anlat, sonunda izleyicinin kendi davranışını sorgulatan bir kapanış ver. Görsel query'ler: deneyi yapan gerçek bilim insanı portreleri, jenerik insan yüzü/mimik/kalabalık/beyin, dönem laboratuvar atmosferi."
+  }
+}

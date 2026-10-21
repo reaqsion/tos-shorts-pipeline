@@ -1,0 +1,30 @@
+# secrets
+.env
+client_secret*.json
+token_*.json
+
+# runtime state / generated
+topics_*.txt
+scenario.json
+saglik_son.json
+output/
+scene_*.png
+*.mp4
+*.wav
+*.mp3
+*.ass
+*_beats.txt
+*_thumb.png
+
+# local tools / models
+piper/
+assets/
+*venv*/
+__pycache__/
+*.pyc
+
+# logs
+*.log
+*_log.txt
+*_err.txt
+*_out.txt

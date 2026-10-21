@@ -1,0 +1,13 @@
+flask
+requests
+python-dotenv
+edge-tts
+stable-ts
+google-api-python-client
+google-auth
+google-auth-oauthlib
+
+# optional: CLIP re-ranker (clip_rank_server.py)
+# torch
+# transformers
+# pillow
